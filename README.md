@@ -7,7 +7,8 @@ These documents are required for App Store submission and subscription complianc
 
 ## 📄 Pages
 
-- [Support](https://ujjeong-official.github.io/ujjeong-legal/support.html)  
+- [Support](https://ujjeong-official.github.io/ujjeong-legal/support.html)
+- [Marketing](https://ujjeong-official.github.io/ujjeong-legal/marketing.html)  
 - [Privacy Policy](https://ujjeong-official.github.io/ujjeong-legal/privacy.html)  
 - [Terms of Use](https://ujjeong-official.github.io/ujjeong-legal/terms.html)
 
