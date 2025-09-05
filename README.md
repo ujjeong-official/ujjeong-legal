@@ -11,12 +11,3 @@ These documents are required for App Store submission and subscription complianc
 - [Terms of Use](https://ujjeong-official.github.io/ujjeong-legal/terms.html)
 
 ---
-
-## 🚀 Hosting
-
-This repository uses **GitHub Pages** to serve static HTML files:
-
-1. Go to **Settings → Pages**.  
-2. Under *Source*, select **Deploy from a branch**.  
-3. Choose the `main` branch and `/root` folder.  
-4. Save → Pages will be available at:  
