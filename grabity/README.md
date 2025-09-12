@@ -7,9 +7,9 @@ These documents are required for App Store submission and subscription complianc
 
 ## 📄 Pages
 
-- [Support](https://ujjeong-official.github.io/ujjeong-legal/grabity/support.html)
-- [Marketing](https://ujjeong-official.github.io/ujjeong-legal/grabity/marketing.html)  
-- [Privacy Policy](https://ujjeong-official.github.io/ujjeong-legal/grabity/privacy.html)  
-- [Terms of Use](https://ujjeong-official.github.io/ujjeong-legal/grabity/terms.html)
+- [Support](http://legal.ujjeong.app/grabity/support.html)
+- [Marketing](http://legal.ujjeong.app/grabity/marketing.html)  
+- [Privacy Policy](http://legal.ujjeong.app/grabity/privacy.html)  
+- [Terms of Use](http://legal.ujjeong.app/grabity/terms.html)
 
 ---
